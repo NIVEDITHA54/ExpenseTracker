@@ -1,2 +1,6 @@
 # ExpenseTracker
-Expense tracker app built using React and context API
+
+A responsive Expense tracker app, built using React-17.0.2 and context API.The app is hosted in git hub pages which can be accessed by the url:niveditha54.github.io/expensetracker/.
+
+
+
